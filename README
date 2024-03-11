@@ -1,0 +1,12 @@
+Esse arquivo contém informações sobre os projetos desse portifólio.
+
+
+1- Login.py
+O programa "Login.py", tem a funcionalidade principal, simular uma tela de login, onde é possivel efetuar o cadastro e login.
+O projeto em si, é para aplicar algumas funções de Interface gráfica em Python (Criação de telas e gerenciamento de ações). Tambem é aplicado 
+alguns pontos de analise de dados, para verificar as credênciais. Se observar, verá que o login criado em uma sessão, poderá ser acessado em
+outras sessões, mesmo que o programa seja fechado e reaberto. Tambem foi adicionado tratativas de erros e exceções. 
+
+2- App_hash.py
+O programa "App_hash.py" tem a funcionalidade de gerar um "Hash ID" e tambem converte-lo para "ID". É possivel adicionar gerar ou converter 
+baseado em alguns parametros predefinidos. Tambem foi adicionado tratativas de erros e exceções. 
